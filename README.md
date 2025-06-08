@@ -1,4 +1,2 @@
-# Dual-SAM: Prompt-enhanced Dual-branch SAM for
- Robust Semi-Supervised Medical Image
- Segmentation
+# Dual-SAM: Prompt-enhanced Dual-branch SAM for Robust Semi-Supervised Medical ImageSegmentation
 
