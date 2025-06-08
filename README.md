@@ -40,25 +40,37 @@ For 2D datasets
 python tranin_2D.py 
 ```
 
-##  Supplementary experiments
+##  Supplementary Materials
 
-### 1. Sensitivity analysis of loss weights λ₁ and λ₂. 
+### 1. Sensitivity analysis of loss weights λ₁ and λ₂
+
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image1.png)
 
-### 2. Comparative of LEPF (Fourier Transform) vs. Wavelet Transform.  
+
+### 2. Comparative of LEPF (Fourier Transform) vs. Wavelet Transform
+
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image2.png)
 
+
 ### 3.Step-by-step pseudocode for Cross-Path Prompt Fusion (CPF)
+
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image3.png)
 
-### 4.Visual comparisons of predicted masks from two decoders at multiple training stages. 
+
+### 4.Visual comparisons of predicted masks from two decoders at multiple training stages
+
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image4.png)
 
-### 5.Sensitivity analysis of different LoRA ranks on Chest X-ray segmentation performance. 
+
+### 5.Sensitivity analysis of different LoRA ranks on Chest X-ray segmentation performance
+
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image5.png)
 
+
 ### 6.Comparison of cardiac structure segmentation and clinical diagnostic indicators calculation on ACDC dataset. 
+
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image6.png)
+
 
 
 
