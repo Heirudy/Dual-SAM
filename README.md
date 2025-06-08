@@ -16,7 +16,7 @@ git clone https://github.com/Heirudy/Dual-SAM.git
 
 see requirements.txt
 
-## Data Preparation
+## 2. Data Preparation
 
 The structure is as follows.
 ```
@@ -52,22 +52,22 @@ python tranin_2D.py
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image2.png)
 
 
-### 3.Step-by-step pseudocode for Cross-Path Prompt Fusion (CPF)
+### 3. Step-by-step pseudocode for Cross-Path Prompt Fusion (CPF)
 
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image3.png)
 
 
-### 4.Visual comparisons of predicted masks from two decoders at multiple training stages
+### 4. Visual comparisons of predicted masks from two decoders at multiple training stages
 
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image4.png)
 
 
-### 5.Sensitivity analysis of different LoRA ranks on Chest X-ray segmentation performance
+### 5. Sensitivity analysis of different LoRA ranks on Chest X-ray segmentation performance
 
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image5.png)
 
 
-### 6.Comparison of cardiac structure segmentation and clinical diagnostic indicators calculation on ACDC dataset. 
+### 6. Comparison of cardiac structure segmentation and clinical diagnostic indicators calculation on ACDC dataset. 
 
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image6.png)
 
