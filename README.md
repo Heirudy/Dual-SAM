@@ -31,22 +31,29 @@ Dual-SAM
 ```
 
 ### 3. train
-
+For 3D datasets
 ```
 python tranin.py 
 ```
-
+For 2D datasets
 ```
 python tranin_2D.py 
 ```
 
-
 ##  Supplementary experiments
 
-- [SAM](https://github.com/facebookresearch/segment-anything)
+![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image1.png)
 
-- [lightning-sam](https://github.com/luca-medeiros/lightning-sam)
+![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image2.png)
 
-- [SAM-LoRA](https://github.com/JamesQFreeman/Sam_LoRA)
+![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image3.png)
+
+![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image4.png)
+
+![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image5.png)
+
+![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image6.png)
+
+
 
 
