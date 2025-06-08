@@ -8,34 +8,18 @@
 ## Setup
 ```bash
 git clone https://github.com/Heirudy/Dual-SAM.git
-cd ESP-MedSAM
 ```
 
-## 📆 TODO
-
-- [x] Release code
-
-## 🎮 Getting Started
+##  Getting Started
 
 ### 1. Install Environment
 
-see [INSTALL](INSTALL.md).
+see requirements.txt
 
-### 2. Prepare Dataset and Checkpoints
+### 2. Modify configs
 
-see [PREPARE](PREPARE.md).
 
-### 3. Adapt with Weak Supervision
-
-```
-# 1 modify configs/config.py 
-# Prompt type: box, point, coarse
-
-# 2 adapt
-python adaptation.py
-```
-
-### 4. Validation
+### 3. train
 
 ```
 python validate.py --ckpt /path/to/checkpoint
