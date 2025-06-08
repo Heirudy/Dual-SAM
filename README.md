@@ -1,15 +1,9 @@
 # Dual-SAM: Prompt-enhanced Dual-branch SAM for Robust Semi-Supervised Medical ImageSegmentation
-
 ## Overall Framework
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image7.png)
-###### **安装步骤**
+# Setup
+git clone https://github.com/Heirudy/Dual-SAM.git
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-
-```sh
-git clone https://github.com/shaojintian/Best_README_template.git
-```
 
 ### 文件目录说明
 eg:
