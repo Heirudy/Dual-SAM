@@ -47,7 +47,7 @@ python tranin_2D.py
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image1.png)
 
 
-### 2. Comparative of LEPF (Fourier Transform) vs. Wavelet Transform
+### 2. Comparative Visualizations of LEPF (Fourier Transform) vs. Wavelet Transform
 
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image2.png)
 
