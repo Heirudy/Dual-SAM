@@ -1,41 +1,13 @@
 # Dual-SAM: Prompt-enhanced Dual-branch SAM for Robust Semi-Supervised Medical ImageSegmentation
-** Overall Framework **
+##Overall Framework ##
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image7.png)
-### Setup
-git clone https://github.com/Heirudy/Dual-SAM.git
 
-
-# ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation
-
-:pushpin: This is an official PyTorch implementation of **ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**
-
-[[`arXiv`](https://arxiv.org/abs/2407.14153)] [[`BibTeX`](https://scholar.googleusercontent.com/scholar.bib?q=info:m1SgUw239yoJ:scholar.google.com/&output=citation&scisdr=ClFw2KpjEKieyAzytL0:AFWwaeYAAAAAZrn0rL2ppFHGbu1Xxj0lav_6C68&scisig=AFWwaeYAAAAAZrn0rNOsqsq5rY17-SQIAK7bscM&scisf=4&ct=citation&cd=-1&hl=en)]
-
-
-<div align="center">
-    <img width="100%" alt="ESP-MedSAM overview" src="framework.png"/>
-</div>
-
-## 📰News
-
-**[2024.08.08]** The pre-print paper has been uploaded!
-
-**[2024.08.07]** Paper will be updated soon!
-
-**[2024.08.07]** Code and model checkpoints are released!
 
 ## 🛠Setup
 
 ```bash
-git clone https://github.com/xq141839/ESP-MedSAM.git
+git clone https://github.com/Heirudy/Dual-SAM.git
 cd ESP-MedSAM
-conda create -n ESP python=3.10
-conda activate ESP
-conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.6 -c pytorch -c nvidia
-pip install albumentations==0.5.2
-pip install pytorch_lightning==1.1.1
-pip install monai
-```
 
 **Note**: Please refer to requirements.txt
 
