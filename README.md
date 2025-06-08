@@ -16,25 +16,32 @@ git clone https://github.com/Heirudy/Dual-SAM.git
 
 see requirements.txt
 
-### 2. Modify configs
+## Data Preparation
 
+The structure is as follows.
+```
+Dual-SAM
+├── datasets
+│   ├── image
+│     ├── image0.png
+|     ├── ...
+|   ├── mask
+│     ├── image0.png
+|     ├── ...
+```
 
 ### 3. train
 
 ```
-python validate.py --ckpt /path/to/checkpoint
+python tranin.py 
+```
+
+```
+python tranin_2D.py 
 ```
 
 
-## 🖼️ Visualization
-
-<div align="center">
-<img width="800" alt="image" src="asserts/VISUAL.webp?raw=true">
-</div>
-
-
-
-## 💡 Acknowledgement
+##  Supplementary experiments
 
 - [SAM](https://github.com/facebookresearch/segment-anything)
 
