@@ -1,9 +1,7 @@
 # Dual-SAM: Prompt-enhanced Dual-branch SAM for Robust Semi-Supervised Medical ImageSegmentation
 
-
-###### Set up
-git clone https://github.com/xq141839/ESP-MedSAM.git
-
+## Overall Framework
+![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image7.png)
 ###### **安装步骤**
 
 1. Get a free API Key at [https://example.com](https://example.com)
