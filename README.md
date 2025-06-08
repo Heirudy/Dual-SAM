@@ -1,5 +1,5 @@
 # Dual-SAM: Prompt-enhanced Dual-branch SAM for Robust Semi-Supervised Medical ImageSegmentation
-## Overall Framework
+** Overall Framework **
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image7.png)
 # Setup
 git clone https://github.com/Heirudy/Dual-SAM.git
