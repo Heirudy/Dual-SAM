@@ -75,7 +75,7 @@ python tranin_2D.py
 
 
   
-#### Codebase and all experimental logs
+### Codebase and all experimental logs
 The comparative experiment codebase and its log files are available in the "Comparison Method" folder.
 
 
