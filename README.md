@@ -43,6 +43,10 @@ python tranin_2D.py
 ##  Supplementary Materials
 
 
+### Codebase and all experimental logs
+<font color="red"><strong>The comparative experiment codebase and its log files are available in the "Comparison Method" folder.</strong></font>
+
+
 ### Additional experimental details
 #### 1. Sensitivity analysis of loss weights λ₁ and λ₂
 
@@ -75,7 +79,6 @@ python tranin_2D.py
 
 
 
-### Codebase and all experimental logs
-<font color="red"><strong>The comparative experiment codebase and its log files are available in the "Comparison Method" folder.</strong></font>
+
 
 
