@@ -74,8 +74,8 @@ python tranin_2D.py
 ![image](https://github.com/Heirudy/Dual-SAM/blob/main/image/image6.png)
 
 
-  
+
 ### Codebase and all experimental logs
-The comparative experiment codebase and its log files are available in the "Comparison Method" folder.
+<span style="color:red">The comparative experiment codebase and its log files are available in the "Comparison Method" folder.</span>  
 
 
